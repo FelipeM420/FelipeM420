@@ -13,8 +13,9 @@ _LO MAS FRESA DEL PEDAZO_
 
 ```json
 {
-  "Nombre": "Edu",
-  "Peso": "72Kg"
+  "Nombre": "Nick",
+  "Años": "19",
+  "Peso": "63kg"
 }
 ```
 
